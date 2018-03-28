@@ -1,0 +1,16 @@
+/Users/FelipeOliveira/Desktop/Projeto CG/CMakeFiles/install.dir
+/Users/FelipeOliveira/Desktop/Projeto CG/CMakeFiles/CG_UFPel.dir
+/Users/FelipeOliveira/Desktop/Projeto CG/CMakeFiles/ALL_BUILD.dir
+/Users/FelipeOliveira/Desktop/Projeto CG/CMakeFiles/ZERO_CHECK.dir
+/Users/FelipeOliveira/Desktop/Projeto CG/external/CMakeFiles/ANTTWEAKBAR_116_OGLCORE_GLFW.dir
+/Users/FelipeOliveira/Desktop/Projeto CG/external/CMakeFiles/install.dir
+/Users/FelipeOliveira/Desktop/Projeto CG/external/CMakeFiles/GLEW_190.dir
+/Users/FelipeOliveira/Desktop/Projeto CG/external/glfw-3.0.3/CMakeFiles/install.dir
+/Users/FelipeOliveira/Desktop/Projeto CG/external/glfw-3.0.3/CMakeFiles/ALL_BUILD.dir
+/Users/FelipeOliveira/Desktop/Projeto CG/external/glfw-3.0.3/CMakeFiles/ZERO_CHECK.dir
+/Users/FelipeOliveira/Desktop/Projeto CG/external/glfw-3.0.3/src/CMakeFiles/install.dir
+/Users/FelipeOliveira/Desktop/Projeto CG/external/glfw-3.0.3/src/CMakeFiles/GLFW_303.dir
+/Users/FelipeOliveira/Desktop/Projeto CG/external/assimp-3.0.1270/contrib/zlib/CMakeFiles/install.dir
+/Users/FelipeOliveira/Desktop/Projeto CG/external/assimp-3.0.1270/contrib/zlib/CMakeFiles/zlib.dir
+/Users/FelipeOliveira/Desktop/Projeto CG/external/assimp-3.0.1270/code/CMakeFiles/install.dir
+/Users/FelipeOliveira/Desktop/Projeto CG/external/assimp-3.0.1270/code/CMakeFiles/assimp.dir
